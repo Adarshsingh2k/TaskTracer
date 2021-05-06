@@ -6,9 +6,9 @@
   * run json server (npm run server)
   
 # Dependencies installed
-  1 react-dom-router
-  2 json-server
-  3 also install global serve
+  * react-dom-router
+  * json-server
+  * also install global serve
 
 
 # Getting Started with Create React App
