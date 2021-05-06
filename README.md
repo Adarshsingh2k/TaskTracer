@@ -1,4 +1,15 @@
 <a href="https://task--tracker.herokuapp.com/"> <h2> Check it here ❤️ </h2> </a>
+<br>
+
+# To get Started with the APP
+  * Create react app
+  * run json server (npm run server)
+  
+# Dependencies installed
+  1 react-dom-router
+  2 json-server
+  3 also install global serve
+
 
 # Getting Started with Create React App
 
